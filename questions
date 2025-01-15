@@ -67,18 +67,12 @@ Calculate the probability of getting exactly 3 heads when flipping a fair coin 5
 In a basketball game, a player has a free throw success rate of 80%. If the player takes 15 free throws, what is the probability that they make at least 12 successful free throws?
 A biologist studies the relationship between the number of hours of sunlight a plant receives and its height. THe following data shows the hours of sunlight and the corresponding heights of 5 plants:
 Calculate the Pearson correlation coefficient.
-Hours of Sunlight (X)
-Height (cm) (y)
-2
-10
-4
-15
-6
-20
-8
-25
-10
-30
+Hours of Sunlight (X); Height (cm) (y)
+2 10
+4 15
+6 20
+8 25
+10 30
 
 
 EXERCISE 5
@@ -111,13 +105,17 @@ A researcher wants to compare the growth of plants under three types of fertiliz
 Does the type of fertilizer (A, B, or C) significantly affect plant growth (with ⍺ = 0.05)
 Perform a one-way ANOVA to determine if fertilizer type affects plant growth. 
 Create a null hypothesis and alternative hypothesis first.
-	
+
+photo1
 
 A researcher wants to determine if there is an association between plant type and fertilizer preference. The researcher surveys 90 plants and records the following data:
 
 Conduct a Chi-Square test of Independence whether plant type and fertilizer preference are independent at α = 0.05.
 
+photo 2
+
 A professor wants to investigate whether the type of programming language (Python, Java, C++) and the study method (Self-Study, Instructor-Led) affects students' test scores. The professor records the test scores of students after completing a course under each combination of factors.
 Perform a Two-Way ANOVA to determine if there are significant effects of programming language, study method, or their interaction on test scores.
 Create all null hypotheses. Use α = 0.05
 
+photo 3
